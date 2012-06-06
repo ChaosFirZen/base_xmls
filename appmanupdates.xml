@@ -1,0 +1,16 @@
+<apps>
+	    
+<app>	    
+		<name>TEAM V3.8</name>
+		<moddate>08-11-2011</moddate>
+		<credits>pvyParts - iridaki</credits>
+		<url>http://www.multiupload.com/X3SZC7YUJ6</url>
+		<version>3.8</version>
+		<description>TEAM V3.8 - New Custom Fonts for Tweaks - Bugfixes, Optimizations</description>
+		<files>
+			<file filename="TEAM_ROM_v3.8.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/TEAM_ROM_v3.8.zip" md5="e334998af45a07804f9fcf8303dde55e" />
+		</files>
+		</app>
+
+</apps>
+

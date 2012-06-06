@@ -1,0 +1,15 @@
+<apps>
+<app>	    
+		<name>Purple Theme T.E.A.M</name>
+		<moddate>08-11-2011</moddate>
+		<credits>iridaki</credits>
+		<url>http://www.multiupload.com/O2IERAS6TU</url>
+		<version>for TEAM v3.8 and up</version>
+		<description>Full purple theme for TEAM ROM</description>
+		<files>
+			<file filename="TEAM_Purple_v3.8.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/themes/TEAM_Purple_v3.8.zip" md5="5b8818feb864b7bd91b003e159f2d0fa" />
+		</files>
+	</app>	    
+	    
+</apps>
+

@@ -1,0 +1,15 @@
+<apps>	
+	<app>	    
+		<name>name</name>
+		<moddate>23-10-2011</moddate>
+		<credits>T.E.A.M</credits>
+		<url>http://google.com</url>
+		<version>Any Version</version>
+		<description>something</description>
+		<files>
+			<file filename="abc.zip" location="sdcard/appman/" perms="0644" appurl="http://" md5="2c3992d12fc218173c308f37c7b533b7" />
+		</files>
+	</app>
+	
+</apps>
+
